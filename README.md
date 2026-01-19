@@ -1,2 +1,2 @@
-# Alphinit
+# Alphiniti
 Alphiniti
