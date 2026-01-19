@@ -1,2 +1,2 @@
-# Alphinit_respository
-Alphiniti Respository
+# Alphinit
+Alphiniti
